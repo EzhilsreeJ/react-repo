@@ -1,28 +1,12 @@
-ezhil-hotel/
-├── public/
-│   ├── index.html
-│   └── manifest.json
-├── src/
-│   ├── assets/
-│   │   ├── images/
-│   │   │   ├── hero-bg.jpg
-│   │   │   └── logo.png
-│   │   └── styles/
-│   │       └── global.css
-│   ├── components/
-│   │   ├── Footer.js
-│   │   ├── Header.js
-│   │   ├── HeroSection.js
-│   │   ├── ReservationForm.js
-│   │   └── ServiceCard.js
-│   ├── pages/
-│   │   ├── About.js
-│   │   ├── Contact.js
-│   │   ├── Home.js
-│   │   ├── Rooms.js
-│   │   └── Services.js
-│   ├── App.js
-│   ├── index.css
-│   └── index.js
-├── package.json
-└── README.md
+# Ezhil Hotel - React Frontend
+
+This project is a React-based frontend application for the Ezhil Hotel website. It provides a user interface for browsing hotel information, services, rooms, and making reservation inquiries.
+
+
+*   Responsive design for various devices.
+*   Navigation to different sections of the hotel (Home, About, Services, Rooms, Contact).
+*   Hero section with a welcome message and call to action.
+*   Service browsing with cards.
+*   Room type display with features.
+*   Reservation inquiry form.
+*   Contact information and message form.
